@@ -35,10 +35,10 @@ My professional resume created using TeX.
 - [Repository](https://github.com/Pavankundrapu/resume)
 
 ## Get in Touch
-- **LinkedIn:** [Pavan Kumar Kundrapu](https://www.linkedin.com/in/pavankundrapu)
-- **Email:** [pavan.kundrapu@example.com](mailto:pavan.kundrapu@example.com)
+- **LinkedIn:** [Pavan Kumar Kundrapu](https://www.linkedin.com/in/pavan-kumar-3b8a05249/)
+- **Email:** [iampavanhere@gmial.com](mailto:iampavanhere@gmail.com)
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavankundrapu&show_icons=true&theme=radical)
 
