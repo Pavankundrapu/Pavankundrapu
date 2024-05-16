@@ -36,7 +36,7 @@ My professional resume created using TeX.
 
 ## Get in Touch
 - **LinkedIn:** [Pavan Kumar Kundrapu](https://www.linkedin.com/in/pavan-kumar-3b8a05249/)
-- **Email:** [iampavanhere@gmial.com](mailto:iampavanhere@gmail.com)
+- **Email:** [iampavanhere@gmail.com](mailto:iampavanhere@gmail.com)
 
 
 
