@@ -1,4 +1,47 @@
 ### Hi there 👋
+# Hi there, I'm Pavan Kumar Kundrapu 👋
+
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development and data modeling. Here you'll find a collection of my projects showcasing my skills and contributions.
+
+## Projects
+
+### Weather App
+A simple web application that provides current weather information for any city using OpenWeatherMap API.
+
+- **Technologies:** JavaScript, HTML, CSS
+- [Repository](https://github.com/Pavankundrapu/weather-app)
+
+### Backend Development
+A project focused on building robust backend services.
+
+- **Technologies:** Node.js, Express, MongoDB
+- [Repository](https://github.com/Pavankundrapu/backend-development)
+
+### Data Models
+A collection of various data models implemented in different programming languages.
+
+- **Technologies:** Python, SQL
+- [Repository](https://github.com/Pavankundrapu/data-models)
+
+### Giftos
+An HTML project featuring a static website layout.
+
+- **Technologies:** HTML, CSS, JavaScript
+- [Repository](https://github.com/Pavankundrapu/giftos)
+
+### Resume
+My professional resume created using TeX.
+
+- [Repository](https://github.com/Pavankundrapu/resume)
+
+## Get in Touch
+- **LinkedIn:** [Pavan Kumar Kundrapu](https://www.linkedin.com/in/pavankundrapu)
+- **Email:** [pavan.kundrapu@example.com](mailto:pavan.kundrapu@example.com)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavankundrapu&show_icons=true&theme=radical)
+
 
 <!--
 **Pavankundrapu/Pavankundrapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
