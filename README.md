@@ -40,7 +40,7 @@ My professional resume created using TeX.
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pavankundrapu&show_icons=true&theme=radical)
+
 
 
 <!--
